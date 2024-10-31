@@ -1,0 +1,28 @@
+body {
+    background-color:#f2e9e4;
+    color:#212529 ;
+}
+button{
+    font-size: 15px;
+    background-color:#c9ada7;
+    color: #212529;
+}
+h1,h2{
+    color:#22223b;
+}
+#signup{
+    background-color:#9a8c98;
+    color:#212529;
+}
+span {
+    color:#4a4e69
+}
+ 
+.tag{
+    background-color:#fb6f92;
+    color:#4a4e69;
+    font-size: 16px;
+}
+footer a {
+    color:#03045e ;
+}
